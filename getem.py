@@ -1,4 +1,5 @@
 # getem.py
+# original code by Sup. from stackoverflow, updated by madprops
 # python2 script to download all images in a given url
 # use: python getem.py http://url.where.images.are
 
